@@ -1,2 +1,39 @@
-name: Dave Vigil
-markdown: kramdown
+name: Dave Vigil 
+
+description: Web Developer from Los Lunas, NM
+
+avatar: https://avatars3.githubusercontent.com/u/1594166?v=3&s=466
+
+footer-links:
+  facebook: davencindie
+  github: dgvigil
+  instagram: dgvigil
+  twitter: davencindie
+  stackoverflow: users/617313/david-vigil 
+
+disqus: davevigil
+url: http://dgvigil.github.io
+
+
+permalink: /:title/
+
+version: v1.2.0
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+sass:
+  style: :expanded 
+
+gems:
+  - jekyll-sitemap 
+  - jekyll-feed 
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
