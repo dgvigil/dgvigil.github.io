@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Dave Vigil. I'm a husband and father of 4 kids.  I've been a Linux SysAdmin for
+over a decade and done a ton of scripting in that time.   I've recently choosen to move over
+to more of Dev role.  
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
