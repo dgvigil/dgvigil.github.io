@@ -1,6 +1,6 @@
-name: Dave Vigil 
+name: Dave Vigil
 
-description: A Web Developer from Los Lunas, NM
+description: A DevOps Engineer from Los Lunas, NM
 
 avatar: https://avatars3.githubusercontent.com/u/1594166?v=3&s=466
 
@@ -9,7 +9,7 @@ footer-links:
   github: dgvigil
   instagram: dgvigil
   twitter: davencindie
-  stackoverflow: users/617313/david-vigil 
+  stackoverflow: users/617313/david-vigil
 
 disqus: davevigil
 url: http://dgvigil.github.io
@@ -25,11 +25,11 @@ kramdown:
     css_class: 'highlight'
 
 sass:
-  style: :expanded 
+  style: :expanded
 
 gems:
-  - jekyll-sitemap 
-  - jekyll-feed 
+  - jekyll-sitemap
+  - jekyll-feed
 
 exclude:
   - Gemfile
