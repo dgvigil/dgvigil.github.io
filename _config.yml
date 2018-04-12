@@ -13,7 +13,6 @@ footer-links:
 
 url: http://dgvigil.github.io
 
-
 permalink: /:title/
 
 version: v1.2.0
@@ -36,3 +35,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Google Analytics
+google_analytics: UA-117416731-1 
