@@ -7,7 +7,7 @@ title: Hitting with a man on second
 I grew up in a baseball family. Baseball was (and is) a huge deal in my family.
 My brother is a private instructor and baseball coach even. He's also the one that
 got me a ticket to game 5 of the 2017 World Series. It was epic. I told my 
-brother about the having a wealth of data, but not exactly sure what questions
+brother about having a wealth of data, but not exactly sure what questions
 to ask it. So he gave me a few interesting ideas. Here is the first:
 
 # Which is the best pitch and count to hit when there is a runner on 2nd base?
