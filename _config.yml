@@ -38,3 +38,5 @@ exclude:
 
 # Google Analytics
 google_analytics: UA-117416731-1 
+
+theme: jekyll-theme-hacker
