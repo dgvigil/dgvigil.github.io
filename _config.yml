@@ -1,6 +1,7 @@
 name: Dave Vigil
+title: Dave Vigil
 
-description: A DevOps Engineer from New Mexico, but living in ATX
+description: A DevOps Engineer from New Mexico, but living in TX
 
 avatar: https://avatars3.githubusercontent.com/u/1594166?v=3&s=466
 
@@ -25,7 +26,7 @@ kramdown:
 sass:
   style: :expanded
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-github-metadata
   - jekyll-mentions
