@@ -17,6 +17,7 @@ url: http://dgvigil.github.io
 permalink: /:title/
 
 version: v1.2.0
+markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
