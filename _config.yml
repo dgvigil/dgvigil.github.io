@@ -40,6 +40,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - CLAUDE.md
   - CNAME
 
 # Google Analytics
